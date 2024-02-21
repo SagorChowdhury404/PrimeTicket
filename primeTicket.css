@@ -1,0 +1,32 @@
+/* /* font bold   */
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.fontInter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: medium;
+    color: black;
+
+}
+
+.navLastBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.background-image {
+    background-image: url(images/banner.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 100%;
+    height: 650px;
+}
